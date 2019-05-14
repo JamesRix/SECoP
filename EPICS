@@ -1,0 +1,3 @@
+I'm curious why there needs to be another communication protocol for Sample Enviroment?  We use EPICS extensively for Sample Enviroment control/monitoring as well as countless other systems.  It is becoming more prevalent at many facilities.
+Has EPICS been adopted at non-US facilities?
+I use LabView for all our Sample Enviroments and employ EPICS for sharing data and control with our beamline systems. I'm not much of a coder, only in a tight pinch do I go down that route.  The graphical nature of designing controls with LabView and the flexibilty of EPICS makes gettings systems up and running very fast.
